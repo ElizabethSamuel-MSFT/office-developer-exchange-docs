@@ -1,11 +1,11 @@
 ---
 title: "Export items by using EWS in Exchange" 
 manager: lindalu
-ms.date: 03/06/2026
+ms.date: 04/28/2026
 ms.audience: Developer 
 ms.assetid: e93ee68c-e134-4469-9070-fba404d46cb4
 description: "Learn how to export appointments, emails, contacts, tasks, and other items by using the EWS Managed API or EWS in Exchange."
-ms.localization_priority: medium
+ms.localizationpriority: medium
 ---
 
 # Export items by using EWS in Exchange
@@ -259,13 +259,10 @@ After exporting items, you might want to [import items into Exchange](how-to-imp
   
 ## See also
 
-
 - [Exporting and importing items by using EWS in Exchange](exporting-and-importing-items-by-using-ews-in-exchange.md)
     
 - [Import items by using EWS in Exchange](how-to-import-items-by-using-ews-in-exchange.md)
     
 - [Folders and items in EWS in Exchange](folders-and-items-in-ews-in-exchange.md)
     
-- [Mailbox synchronization and EWS in Exchange](mailbox-synchronization-and-ews-in-exchange.md)
-    
-
+- [Mailbox synchronization and EWS in Exchange](mailbox-synchronization-and-ews-in-exchange.md)    
